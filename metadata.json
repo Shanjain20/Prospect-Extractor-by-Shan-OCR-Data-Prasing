@@ -1,0 +1,7 @@
+{
+  "name": "Prospect Extractor",
+  "description": "Extract structured prospect data from book pages or documents using AI-powered OCR.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
