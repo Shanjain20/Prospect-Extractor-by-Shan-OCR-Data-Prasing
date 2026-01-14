@@ -1,5 +1,5 @@
 {
-  "name": "Prospect Extractor",
+  "name": "Prospect Extractor by Shahidul",
   "description": "Extract structured prospect data from book pages or documents using AI-powered OCR.",
   "requestFramePermissions": [
     "camera"
